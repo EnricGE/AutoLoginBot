@@ -50,11 +50,11 @@ This project demonstrates automated login for multiple websites using Python and
     ```bash
     python main.py
 
-You can toggle which bots run in main.py:
+    You can toggle which bots run in main.py:
 
-    SELECTED_BOTS = ["github", "quotes"]
-    HEADLESS_MODE = False
-    CLOSE_BROWSER = False
+        SELECTED_BOTS = ["github", "quotes"]
+        HEADLESS_MODE = False
+        CLOSE_BROWSER = False
 
 ## 🚀 Why This Project?:
 This tool serves as a clean and extendable template for automating login flows in professional or testing environments. It demonstrates:
