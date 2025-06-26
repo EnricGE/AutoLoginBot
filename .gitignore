@@ -1,5 +1,4 @@
 # .gitignore
-.env
 screenshots/
 __pycache__/
 *.pyc
